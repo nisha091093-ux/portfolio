@@ -1,5 +1,3 @@
-# portfolio
-
 # Landing Page
 
 A landing page project built as part of The Odin Project Foundations curriculum. This project focuses on applying HTML, CSS, and Flexbox skills to recreate a provided design layout.
